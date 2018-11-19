@@ -1,1 +1,1 @@
-This repos contains some of the SQL queries that I wrote.
+This repos contains a few SQL queries that I wrote.
